@@ -1,7 +1,7 @@
 
 /*Q. C program for inserting an element at a specific position in an array?
-Name    Sharesht Mishra
-Roll no.  134*/
+Name    Rishipal Singh 
+Roll no.  125*/
 #include<stdio.h>
 void main()
 {
