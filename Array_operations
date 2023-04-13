@@ -1,7 +1,7 @@
 /*Q. Implement a List using Array and develop functions to perform insertion, deletion and linear search 
 operations?
-Name      Aniket Manhas
-Roll no.  148*/
+Name      Rishipal Singh 
+Roll no.  125*/
 #include<stdio.h>
 void main()
 {   
